@@ -1,1 +1,0 @@
-This project reads corporate law cases and determines whether or not the business judgment rule was rebutted, whether the case involved a potential breach of the duty of loyalty, the duty of care, or both, and (if involving the duty of care) whether the directors’ liability was limited by 102(b)(7) of the Deleware General Corporation Law.
